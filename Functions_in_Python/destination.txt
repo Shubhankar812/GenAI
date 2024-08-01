@@ -1,0 +1,2 @@
+Just a random file with some crab text, this file is created to understand how things are copies from one 
+file to another using the 'shutil' package.
